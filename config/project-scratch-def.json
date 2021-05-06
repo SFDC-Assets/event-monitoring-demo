@@ -1,0 +1,18 @@
+{
+  "orgName": "jonathan.zhou company",
+  "edition": "Developer",
+  "features": ["EnableSetPasswordInApi", "EventLogFile", "SecurityEventEnabled", "EinsteinAnalyticsPlus"],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    },
+    "eventSettings": {
+      "enableDeleteMonitoringData": true,
+      "enableTransactionSecurityPolicies": true,
+      "enableEventLogWaveIntegration": true
+    }
+  }
+}
