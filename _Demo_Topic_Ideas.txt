@@ -1,0 +1,6 @@
+Demo Ideas:
+
+- Get Tableau CRM working
+- Reports with ReportNames Recipe
+- Modify Report - Change Date Dropdown to Date Range
+- Walk through using ELF and downloading reports (maybe...chron or Win Scheduled Task)
