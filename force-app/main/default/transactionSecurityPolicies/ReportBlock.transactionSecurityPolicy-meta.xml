@@ -11,7 +11,7 @@
         </notifications>
         <twoFactorAuthentication>false</twoFactorAuthentication>
     </action>
-    <active>true</active>
+    <active>false</active>
     <description>Block Large Report Download</description>
     <developerName>ReportBlock</developerName>
     <eventName>ReportEvent</eventName>
