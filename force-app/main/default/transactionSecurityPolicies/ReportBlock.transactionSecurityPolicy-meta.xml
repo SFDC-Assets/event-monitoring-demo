@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TransactionSecurityPolicy xmlns="http://soap.sforce.com/2006/04/metadata">
+    <action>
+        <block>true</block>
+        <endSession>false</endSession>
+        <freezeUser>false</freezeUser>
+        <notifications>
+            <inApp>true</inApp>
+            <sendEmail>false</sendEmail>
+            <user>test-imvmie2rvan9@example.com</user>
+        </notifications>
+        <twoFactorAuthentication>false</twoFactorAuthentication>
+    </action>
+    <active>false</active>
+    <description>Block Large Report Download</description>
+    <developerName>ReportBlock</developerName>
+    <eventName>ReportEvent</eventName>
+    <flow>PolicyCondition_pnFIPOcBstsXkGckZOnx</flow>
+    <masterLabel>Report Block</masterLabel>
+    <type>CustomConditionBuilderPolicy</type>
+</TransactionSecurityPolicy>
