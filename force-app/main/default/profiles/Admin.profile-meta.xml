@@ -6,6 +6,14 @@
         <visible>true</visible>
     </applicationVisibilities>
     <custom>false</custom>
+    <tabVisibilities>
+        <tab>Event_Log_Files</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Real_Time_Events</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>

@@ -7,7 +7,7 @@
         <notifications>
             <inApp>true</inApp>
             <sendEmail>false</sendEmail>
-            <user>test-imvmie2rvan9@example.com</user>
+            <user>test-yohkxjr9bugz@example.com</user>
         </notifications>
         <twoFactorAuthentication>false</twoFactorAuthentication>
     </action>
