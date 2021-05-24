@@ -10,6 +10,14 @@
         <enabled>true</enabled>
     </classAccesses>
     <custom>false</custom>
+    <pageAccesses>
+        <apexPage>ELF</apexPage>
+        <enabled>true</enabled>
+    </pageAccesses>
+    <tabVisibilities>
+        <tab>Event_Log_File_Browser</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
     <tabVisibilities>
         <tab>Event_Log_Files</tab>
         <visibility>DefaultOn</visibility>
