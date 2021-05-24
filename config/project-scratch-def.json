@@ -1,6 +1,7 @@
 {
   "orgName": "jonathan.zhou company",
   "edition": "Developer",
+  "hasSampleData": true,
   "features": ["EnableSetPasswordInApi", "EventLogFile", "SecurityEventEnabled", "WavePlatform", "EinsteinAnalyticsPlus", "AnalyticsAdminPerms", "AnalyticsAppEmbedded", "DevelopmentWave", "EinsteinAnalyticsPlus", "DataProcessingEngine"],
   "settings": {
     "lightningExperienceSettings": {
