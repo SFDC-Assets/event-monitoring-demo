@@ -42,7 +42,7 @@
                 <leftValueReference>myVariable_myEvent.RowsProcessed</leftValueReference>
                 <operator>GreaterThan</operator>
                 <rightValue>
-                    <numberValue>10.0</numberValue>
+                    <numberValue>20.0</numberValue>
                 </rightValue>
             </conditions>
             <connector>
@@ -51,8 +51,8 @@
             <label xsi:nil="true"/>
         </rules>
     </decisions>
-    <interviewLabel>PolicyCondition_pnFIPOcBstsXkGckZOnx</interviewLabel>
-    <label>PolicyCondition_pnFIPOcBstsXkGckZOnx</label>
+    <interviewLabel>PolicyCondition_WPPGnAweuxMkmRwSVWAL</interviewLabel>
+    <label>PolicyCondition_WPPGnAweuxMkmRwSVWAL</label>
     <processType>TransactionSecurityFlow</processType>
     <startElementReference>myDecision</startElementReference>
     <status>Draft</status>

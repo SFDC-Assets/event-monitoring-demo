@@ -13,7 +13,6 @@
     <label>Shield EM</label>
     <navType>Standard</navType>
     <tabs>standard-report</tabs>
-    <tabs>standard-Dashboard</tabs>
     <tabs>Real_Time_Events</tabs>
     <tabs>Event_Log_Files</tabs>
     <uiType>Lightning</uiType>
