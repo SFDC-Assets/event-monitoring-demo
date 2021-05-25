@@ -7,7 +7,7 @@
         <notifications>
             <inApp>true</inApp>
             <sendEmail>false</sendEmail>
-            <user>event-monitoring4@work.shop</user>
+            <user>PLACEHOLDER</user>
         </notifications>
         <twoFactorAuthentication>false</twoFactorAuthentication>
     </action>
