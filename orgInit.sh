@@ -5,5 +5,3 @@ sfdx force:source:push
 sfdx force:user:permset:assign -n Event_Monitoring_Access
 sfdx shane:user:password:set -p salesforce1 -g User -l User
 sfdx force:org:open
-
-// sfdx force:package:install -p 04t5w000005hfrtAAA -w 10
