@@ -14,7 +14,6 @@
     <navType>Standard</navType>
     <tabs>standard-report</tabs>
     <tabs>Real_Time_Events</tabs>
-    <tabs>Event_Log_Files</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>Shield_EM_UtilityBar</utilityBar>
 </CustomApplication>
