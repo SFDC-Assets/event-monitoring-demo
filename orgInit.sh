@@ -4,4 +4,5 @@ sfdx force:package:install -p 04t1t000003DLALAA4 -w 10
 sfdx force:source:push
 sfdx force:user:permset:assign -n Event_Monitoring_Access
 sfdx shane:user:password:set -p salesforce1 -g User -l User
+sfdx force:user:create -a other-user
 sfdx force:org:open

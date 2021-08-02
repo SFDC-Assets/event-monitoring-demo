@@ -7,7 +7,7 @@
         <notifications>
             <inApp>false</inApp>
             <sendEmail>false</sendEmail>
-            <user>event-monitoring13@work.shop</user>
+            <user>event-monitoring43@work.shop</user>
         </notifications>
         <twoFactorAuthentication>false</twoFactorAuthentication>
     </action>
@@ -17,5 +17,5 @@
     <eventName>ReportEvent</eventName>
     <masterLabel>Apex Block Report Export</masterLabel>
     <type>CustomApexPolicy</type>
-    <executionUser>event-monitoring13@work.shop</executionUser>
+    <executionUser>event-monitoring43@work.shop</executionUser>
 </TransactionSecurityPolicy>
