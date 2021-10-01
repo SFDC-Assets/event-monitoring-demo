@@ -1,5 +1,5 @@
 {
-  "orgName": "jonathan.zhou company",
+  "orgName": "Real Time Event Monitoring",
   "edition": "Developer",
   "hasSampleData": true,
   "features": ["EnableSetPasswordInApi", "EventLogFile", "SecurityEventEnabled", "WavePlatform", "EinsteinAnalyticsPlus", "AnalyticsAdminPerms", "AnalyticsAppEmbedded", "DevelopmentWave", "EinsteinAnalyticsPlus", "DataProcessingEngine"],
