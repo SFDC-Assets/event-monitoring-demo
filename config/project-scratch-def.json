@@ -13,8 +13,7 @@
     "eventSettings": {
       "enableDeleteMonitoringData": true,
       "enableTransactionSecurityPolicies": true,
-      "enableEventLogWaveIntegration": true,
-      "eventLogRetentionDuration": "30"
+      "enableEventLogWaveIntegration": true
     },
     "securitySettings": {
       "enableAdminLoginAsAnyUser": true
