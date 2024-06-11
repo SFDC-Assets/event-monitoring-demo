@@ -14,7 +14,7 @@
       "enableDeleteMonitoringData": true,
       "enableTransactionSecurityPolicies": true,
       "enableEventLogWaveIntegration": true,
-      "eventLogRetentionDuration": 30
+      "eventLogRetentionDuration": "30"
     },
     "securitySettings": {
       "enableAdminLoginAsAnyUser": true
