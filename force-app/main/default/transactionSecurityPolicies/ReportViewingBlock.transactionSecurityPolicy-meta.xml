@@ -7,7 +7,7 @@
         <notifications>
             <inApp>true</inApp>
             <sendEmail>false</sendEmail>
-            <user>event-monitoring50@work.shop</user>
+            <user>event-monitoring76@work.shop</user>
         </notifications>
         <twoFactorAuthentication>false</twoFactorAuthentication>
     </action>
@@ -18,5 +18,5 @@
     <flow>PolicyCondition_WPPGnAweuxMkmRwSVWAL</flow>
     <masterLabel>Report Viewing Block</masterLabel>
     <type>CustomConditionBuilderPolicy</type>
-    <executionUser>event-monitoring50@work.shop</executionUser>
+    <executionUser>event-monitoring76@work.shop</executionUser>
 </TransactionSecurityPolicy>
