@@ -4,5 +4,5 @@ sf package install -p 04t1t000003Po3QAAS -w 10
 sf project deploy start
 sf org assign permset -n Event_Monitoring_Access
 sf demoutil user password set -g User -l User -p salesforce1
-sf org create user -a other-user
+# sfdx force:user:create -a other-user
 sf org open

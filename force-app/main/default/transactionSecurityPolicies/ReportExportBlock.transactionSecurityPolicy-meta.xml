@@ -7,7 +7,7 @@
         <notifications>
             <inApp>true</inApp>
             <sendEmail>false</sendEmail>
-            <user>event-monitoring76@work.shop</user>
+            <user>event20@monitoring.demo</user>
         </notifications>
         <twoFactorAuthentication>false</twoFactorAuthentication>
     </action>
@@ -18,5 +18,5 @@
     <flow>PolicyCondition_tXnRSnJNoQbNfGJsSxOK</flow>
     <masterLabel>Report Export Block</masterLabel>
     <type>CustomConditionBuilderPolicy</type>
-    <executionUser>event-monitoring76@work.shop</executionUser>
+    <executionUser>event20@monitoring.demo</executionUser>
 </TransactionSecurityPolicy>
